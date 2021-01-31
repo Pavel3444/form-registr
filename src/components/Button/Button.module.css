@@ -1,0 +1,18 @@
+.Button{
+    width: 100%;
+    color: #fff;
+    background: #0880AE;
+    box-shadow: 0 2px 4px rgba(44, 39, 56, 0.08), 0 4px 8px rgba(44, 39, 56, 0.08);
+    border-radius: 6px;
+    text-align: center;
+    padding: 18px;
+    font-size: 16px;
+    cursor: pointer;
+    margin:  10px 0;
+
+}
+.Button[disabled]{
+    color: #B1B5BF;
+    cursor: not-allowed;
+    background: #DBE2EA;
+}

@@ -1,0 +1,7 @@
+.Error{
+    position: absolute;
+    font-size: 14px;
+    color: #FF7171;
+    bottom: 0;
+    left: 0;
+}

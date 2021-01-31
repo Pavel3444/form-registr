@@ -1,0 +1,9 @@
+.FormHeader{
+    color: #2C2738;
+}
+.FormHeader h2{
+    font-weight: 700;
+    font-size: 34px;
+    line-grid-progression: 1.2;
+    margin: 0;
+}

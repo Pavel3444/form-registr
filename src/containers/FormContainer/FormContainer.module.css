@@ -1,0 +1,15 @@
+.FormContainer{
+    display: block;
+    width: 460px;
+    max-width: 100%;
+    margin: 50px auto;
+    background: #fff;
+    box-shadow: 0 12px 24px rgba(44, 39, 56, 0.02), 0 32px 64px rgba(44, 39, 56, 0.04);
+    border-radius: 24px;
+    padding: 40px 30px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.2;
+    color: #756F86;
+}

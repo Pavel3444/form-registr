@@ -1,0 +1,19 @@
+.SelectList{
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 12px 0;
+    border: 1px solid #DBE2EA;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px rgba(44, 39, 56, 0.04);
+    border-radius: 6px;
+    background: #fff;
+}
+.SelectList .Option{
+    padding:11px 16px ;
+}
+.SelectList .Option:hover{
+   background: #EBF4F8;
+}

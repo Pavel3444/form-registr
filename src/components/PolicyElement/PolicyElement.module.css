@@ -1,0 +1,11 @@
+.PolicyElement{
+    padding: 15px 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.PolicyElement .Check{
+    cursor: pointer;
+
+}
